@@ -17,7 +17,7 @@ function newPromise() {
       if (value==true){
           results._true++
       }
-      else (value==false){
+      else (value){
           results._false++
       }
       console.log(value )
